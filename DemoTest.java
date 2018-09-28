@@ -5,7 +5,7 @@
  * and list the unique words in a set.
  * 
  * @author Moore
- *
+ *Github Edit
  */
 import java.util.HashMap;
 import java.util.HashSet;
